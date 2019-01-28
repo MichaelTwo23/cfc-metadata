@@ -1,0 +1,495 @@
+{	
+
+  "bowlGames": ["Cool Bowl", "Neat Bowl", "Hot Bowl", "Lit Bowl", "Special Bowl", "Swag Bowl", "Clutch Bowl", "Interesting Bowl", "Wow Bowl", "Worst Bowl"],
+
+	"conferences": [{
+
+		"confName": "MEM",
+
+		"confFullName": "Memetastical",
+
+		"confTeams": [{
+
+			"name": "Fortnite",
+
+			"abbreviation": "FOR",
+
+			"prestige": "95",
+
+			"state": "Alabama",
+
+			"rival": "PUB"
+
+		}, {
+
+			"name": "PUBG",
+
+			"abbreviation": "PUB",
+
+			"prestige": "40",
+
+			"state": "Georgia",
+
+			"rival": "FOR"
+
+		}, {
+
+			"name": "Roblox",
+
+			"abbreviation": "RBX",
+
+			"prestige": "75",
+
+			"state": "Florida",
+
+			"rival": "MIN"
+
+		}, {
+
+			"name": "Minecraft",
+
+			"abbreviation": "MIN",
+
+			"prestige": "85",
+
+			"state": "Tennessee",
+
+			"rival": "RBX"
+
+		}, {
+
+			"name": "Tik Tok",
+
+			"abbreviation": "TIK",
+
+			"prestige": "25",
+
+			"state": "Texas",
+
+			"rival": "MUS"
+
+		}, {
+
+			"name": "Music.ly",
+
+			"abbreviation": "MUS",
+
+			"prestige": "25",
+
+			"state": "Louisiana",
+
+			"rival": "TIK"
+
+		}, {
+
+			"name": "Big Baller Brand",
+
+			"abbreviation": "BBB",
+
+			"prestige": "95",
+
+			"state": "Arkansas",
+
+			"rival": "EVR"
+
+		}, {
+
+			"name": "Every Other Clothing Company",
+
+			"abbreviation": "EVR",
+
+			"prestige": "40",
+
+			"state": "Mississippi",
+
+			"rival": "BBB"
+
+		}, {
+
+			"name": "Clutchell Goatbrook",
+
+			"abbreviation": "RUS",
+
+			"prestige": "95",
+
+			"state": "Kentucky",
+
+			"rival": "SNK"
+
+		}, {
+
+			"name": "Cupcake Snake Trash",
+
+			"abbreviation": "SNK",
+
+			"prestige": "25",
+
+			"state": "Alabama",
+
+			"rival": "RUS"
+
+		}]
+
+	}, {
+
+		"confName": "HMM",
+
+		"confFullName": "Other Sports",
+
+		"confTeams": [{
+
+			"name": "Basketball",
+
+			"abbreviation": "BBL",
+
+			"prestige": "70",
+
+			"state": "Ohio",
+
+			"rival": "BSB"
+
+		}, {
+
+			"name": "Baseball",
+
+			"abbreviation": "BSB",
+
+			"prestige": "65",
+
+			"state": "Michigan",
+
+			"rival": "BBL"
+
+		}, {
+
+			"name": "Soccer",
+
+			"abbreviation": "SCR",
+
+			"prestige": "25",
+
+			"state": "Michigan",
+
+			"rival": "FUT"
+
+		}, {
+
+			"name": "Futbol",
+
+			"abbreviation": "FUT",
+
+			"prestige": "95",
+
+			"state": "Wisconsin",
+
+			"rival": "SCR"
+
+		}, {
+
+			"name": "Rugby",
+
+			"abbreviation": "RGB",
+
+			"prestige": "60",
+
+			"state": "Minnesota",
+
+			"rival": "LAX"
+
+		}, {
+
+			"name": "Lacrosse",
+
+			"abbreviation": "LAX",
+
+			"prestige": "55",
+
+			"state": "Indiana",
+
+			"rival": "RGB"
+
+		}, {
+
+			"name": "Swimming",
+
+			"abbreviation": "SWM",
+
+			"prestige": "70",
+
+			"state": "Iowa",
+
+			"rival": "POL"
+
+		}, {
+
+			"name": "Water Polo",
+
+			"abbreviation": "POL",
+
+			"prestige": "30",
+
+			"state": "Indiana",
+
+			"rival": "SWM"
+
+		}, {
+
+			"name": "Track",
+
+			"abbreviation": "TRK",
+
+			"prestige": "80",
+
+			"state": "Pennsylvania",
+
+			"rival": "FLD"
+
+		}, {
+
+			"name": "Field",
+
+			"abbreviation": "FLD",
+
+			"prestige": "75",
+
+			"state": "Nebraska",
+
+			"rival": "TRK"
+
+		}]
+
+	}, {
+
+		"confName": "WAR",
+
+		"confFullName": "Countries",
+
+		"confTeams": [{
+
+			"name": "Britain",
+
+			"abbreviation": "GBR",
+
+			"prestige": "65",
+
+			"state": "Virginia",
+
+			"rival": "FRA"
+
+		}, {
+
+			"name": "France",
+
+			"abbreviation": "FRA",
+
+			"prestige": "80",
+
+			"state": "Boston",
+
+			"rival": "FRA"
+
+		}, {
+
+			"name": "Germany",
+
+			"abbreviation": "GER",
+
+			"prestige": "60",
+
+			"state": "South Carolina",
+
+			"rival": "AUS"
+
+		}, {
+
+			"name": "Austria",
+      
+      "abbreviation": "AUS",
+      
+      "prestige": "30",
+      
+      "state": "Florida",
+      
+      "rival": "GER"
+      
+		}, {
+
+			"name": "North Korea",
+
+			"abbreviation": "NK",
+
+			"prestige": "90",
+
+			"state": "North Carolina",
+
+			"rival": "SK"
+
+		}, {
+
+			"name": "South Korea",
+
+			"abbreviation": "SK",
+
+			"prestige": "45",
+
+			"state": "North Carolina",
+
+			"rival": "NK"
+
+		}, {
+
+			"name": "Russia",
+      
+      "abreviation": "RUS",
+      
+      "presitge": "70",
+      
+      "state": "Kentucky",
+      
+      "rival": "USA"
+      
+		}, {
+
+			"name": "United States",
+
+			"abbreviation": "USA",
+
+			"prestige": "90",
+
+			"state": "Pennsylvania",
+
+			"rival": "RUS"
+
+		}, {
+
+			"name": "Italy",
+
+			"abbreviation": "ITA",
+
+			"prestige": "50",
+
+			"state": "New York",
+
+			"rival": "SPA"
+
+		}, {
+
+			"name": "Spain",
+
+			"abbreviation": "SPA",
+
+			"prestige": "50",
+
+			"state": "Florida State",
+
+			"rival": "ITA"
+
+		}]
+
+	}, {
+
+		"confName": "SOC",
+
+		"confFullName": "Social Media",
+
+		"confTeams": [{
+
+			"name": "Snapchat",
+
+			"abbreviation": "SNP",
+
+			"prestige": "90",
+
+			"state": "Oklahoma",
+
+			"rival": "INS"
+
+		}, {
+
+			"name": "Instagram",
+
+			"abbreviation": "INS",
+
+			"prestige": "80",
+
+			"state": "Texas",
+
+			"rival": "SNP"
+
+		}, {
+
+			"name": "Facebook",
+
+			"abbreviation": "FBK",
+
+			"prestige": "65",
+
+			"state": "Iowa",
+
+			"rival": "TWT"
+
+		}, {
+
+			"name": "Twitter",
+
+			"abbreviation": "TWT",
+
+			"prestige": "80",
+
+			"state": "Texas",
+
+			"rival": "FBK"
+
+		}, {
+
+			"name": "MySpace",
+
+			"abbreviation": "MYS",
+
+			"prestige": "95",
+
+			"state": "Texas",
+
+			"rival": "LKN"
+
+		}, {
+
+			"name": "LinkedIn",
+
+			"abbreviation": "LKN",
+
+			"prestige": "60",
+
+			"state": "Oklahoma",
+
+			"rival": "MYS"
+
+		}, {
+
+			"name": "Youtube",
+
+			"abbreviation": "YOU",
+
+			"prestige": "85",
+
+			"state": "Kansas",
+
+			"rival": "VIN"
+
+		}, {
+
+			"name": "Vine",
+
+			"abbreviation": "VIN",
+
+			"prestige": "25",
+
+			"state": "West Virginia",
+
+			"rival": "YOU"
+
+		}]
+
+	}]
+
+}
